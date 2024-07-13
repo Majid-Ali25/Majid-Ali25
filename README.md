@@ -28,6 +28,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.veripool.org/verilator/" target="_blank" rel="noreferrer"> <img src="https://www.veripool.org/img/verilator_256_200_min.png" alt="verilator" width="40" height="40"/> </a>
     <a href="https://www.mentor.com/products/fv/questa/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4g9iGb6Z4drVMGI-iZqtfSKmJFQDAiOMV2e2GHA1csEsTn_U2jWHkBIqTQE1rOhhGF20&usqp=CAU" alt="questasim" width="40" height="40"/> </a>
+    <br>
     <a href="https://www.mentor.com/products/fv/modelsim/" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="modelsim" width="40" height="40"/> </a>
     <a href="https://iverilog.fandom.com/wiki/Main_Page" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="iverilog" width="40" height="40"/> </a>
     <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzt7ekVT29Wr2wsd9vwtgnVPJWVl5fxtHO3g&s" alt="proteus" width="40" height="40"/> </a>
