@@ -25,7 +25,14 @@
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    <a href="https://www.veripool.org/verilator/" target="_blank" rel="noreferrer"> <img src="https://www.veripool.org/img/verilator_256_200_min.png" alt="verilator" width="40" height="40"/> </a>
+    <a href="https://www.mentor.com/products/fv/questa/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4g9iGb6Z4drVMGI-iZqtfSKmJFQDAiOMV2e2GHA1csEsTn_U2jWHkBIqTQE1rOhhGF20&usqp=CAU" alt="questasim" width="40" height="40"/> </a>
+    <a href="https://www.mentor.com/products/fv/modelsim/" target="_blank" rel="noreferrer"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/ModelSim.png" alt="modelsim" width="40" height="40"/> </a>
+    <a href="https://iverilog.fandom.com/wiki/Main_Page" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="iverilog" width="40" height="40"/> </a>
+    <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzt7ekVT29Wr2wsd9vwtgnVPJWVl5fxtHO3g&s" alt="proteus" width="40" height="40"/> </a>
+    <a href="https://github.com/logisim-evolution/logisim-evolution" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/1024px-Logisim-icon.svg.png" alt="logisim" width="40" height="40"/> </a>
+    <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="vivado design suite" width="40" height="40"/> </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
