@@ -40,7 +40,7 @@
     <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="verilog" width="40" height="40"/> 
   </a>
   <a href="https://www.systemverilog.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.systemverilog.com/img/systemverilog.png" alt="systemverilog" width="40" height="40"/> 
+    <img src="[https://www.systemverilog.com/img/systemverilog.png](https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.9/1705538304159/Microsoft.VisualStudio.Services.Icons.Default)" alt="systemverilog" width="40" height="40"/> 
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
