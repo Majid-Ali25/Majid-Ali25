@@ -18,6 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="verilog" width="40" height="40"/> </a> 
+    <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" alt="systemverilog" width="40" height="40"/> </a>
+    <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"> <img src="https://uvm.io/images/uvm-logo.svg" alt="uvm" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
