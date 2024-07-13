@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidali25&label=Profile%20views&color=0e75b6&style=flat" alt="majidali25" /> </p>
 
-- 🌱 I’m currently learning **RTL for design and verification, AXI Protocol, ASIC, SoC, RISC-V, Digital System Design**
+- 🌱 I’m currently learning **RTL for design and verification, AXI Protocol <br> ASIC, SoC, RISC-V, Digital System Design, Computer Architecture and**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@innovaari25](https://www.youtube.com/@innovaari25)
 
