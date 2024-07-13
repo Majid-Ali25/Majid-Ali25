@@ -33,7 +33,7 @@
     <a href="https://iverilog.fandom.com/wiki/Main_Page" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Icarus_Verilog_logo2.png" alt="iverilog" width="40" height="40"/> </a>
     <a href="https://www.labcenter.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzt7ekVT29Wr2wsd9vwtgnVPJWVl5fxtHO3g&s" alt="proteus" width="40" height="40"/> </a>
     <a href="https://github.com/logisim-evolution/logisim-evolution" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/1024px-Logisim-icon.svg.png" alt="logisim" width="40" height="40"/> </a>
-    <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="vivado design suite" width="40" height="40"/> </a>
+    <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.corna.Vivado.png" alt="vivado design suite" width="40" height="40"/> </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
