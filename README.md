@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.verilog.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.verilog.com/img/verilog.png" alt="verilog" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="verilog" width="40" height="40"/> 
   </a>
   <a href="https://www.systemverilog.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.systemverilog.com/img/systemverilog.png" alt="systemverilog" width="40" height="40"/> 
