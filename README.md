@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid Ali</h1>
 <h3 align="center">Electrical Engineering Graduate from Pakistan</h3>
-<img align="right" alt="myimg" width="400" src="https://training-blog-uploads.internshala.com/blog/wp-content/uploads/2023/03/VLSI-Design-Flow.jpg.webp">
+<img align="right" alt="myimg" width="400" src="https://github.com/Majid-Ali25/Majid-Ali25/blob/main/VLSI-Design-Flow.jpg?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidali25&label=Profile%20views&color=0e75b6&style=flat" alt="majidali25" /> </p>
 
