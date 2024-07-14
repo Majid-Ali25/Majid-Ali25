@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Majid Ali</h1>
-<h3 align="left">Electrical Engineering Graduate from Pakistan</h3>
+<h1 align="center">Hi I'm Majid Ali</h1>
+<h3 align="left">Electrical Engineering Graduate from Namal University, Punjab, Pakistan</h3>
 <img align="right" alt="myimg" width="400" src="https://github.com/Majid-Ali25/Majid-Ali25/blob/main/VLSI-Design-Flow.jpg?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidali25&label=Profile%20views&color=0e75b6&style=flat" alt="majidali25" /> </p>
 
-- 🌱 I’m currently learning **RTL for design and verification, AXI Protocol <br> ASIC, SoC, RISC-V, Digital System Design, Computer Architecture and**
+- **I'm eager to begin my career in digital IC design, I have a strong grasp of HDL languages such as Verilog and SystemVerilog, as well as expertise in computer architecture, digital system design, and AXI protocols. Through my academic projects, I've developed skills in RTL design, FPGA prototyping, and verification methods like simulation and timing analysis. I am proficient with industry-standard EDA tools like Quartus, Vivado, and Questasim, gaining practical experience in designing and testing digital circuits. I am enthusiastic about applying my knowledge to excel as a digital design and verification engineer, using my analytical abilities to contribute effectively in semiconductor technology.**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@innovaari25](https://www.youtube.com/@innovaari25)
 
