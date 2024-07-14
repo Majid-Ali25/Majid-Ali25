@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidali25&label=Profile%20views&color=0e75b6&style=flat" alt="majidali25" /> </p>
 
 - **I'm eager to begin my career in digital IC design, I have a strong grasp of HDL languages such as Verilog and SystemVerilog, as well as expertise in computer architecture, digital system design, and AXI protocols. Through my academic projects, I've developed skills in RTL design, FPGA prototyping, and verification methods like simulation and timing analysis. I am proficient with industry-standard EDA tools like Quartus, Vivado, and Questasim, gaining practical experience in designing and testing digital circuits. I am enthusiastic about applying my knowledge to excel as a digital design and verification engineer, using my analytical abilities to contribute effectively in semiconductor technology.**
-<img align="right" alt="myimg" width="400" src="https://github.com/Majid-Ali25/Majid-Ali25/blob/main/VLSI-Design-Flow.jpg?raw=true">
+<img align="right" alt="myimg" width="360" src="https://github.com/Majid-Ali25/Majid-Ali25/blob/main/VLSI-Design-Flow.jpg?raw=true">
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@innovaari25]
 
 - 📫 How to reach me **majidali4894@gmail.com**
