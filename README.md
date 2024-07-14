@@ -15,6 +15,9 @@
 <a href="https://linkedin.com/in/linkedin.com/in/majidali4894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/majidali4894" height="30" width="40" /></a>
 <a href="https://instagram.com/@majid_ali_4894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@majid_ali_4894" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@innovaari25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@innovaari25" height="30" width="40" /></a>
+<a href="https://www.indeed.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/indeed.svg" alt="Indeed" height="30" width="40" /></a>
+<a href="https://www.fiverr.com" target="blank"><img align="center" src="https://www.fiverr.com/mrj728?up_rollout=true" alt="Fiverr" height="30" width="40" /></a>
+<a href="https://www.upwork.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Upwork" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,7 +39,10 @@
     <a href="https://github.com/logisim-evolution/logisim-evolution" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/1024px-Logisim-icon.svg.png" alt="logisim" width="40" height="40"/> </a>
     <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.corna.Vivado.png" alt="vivado design suite" width="40" height="40"/> </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+    <a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/RISC-V-logo.png" alt="riscv" width="40" height="40"/> </a> 
+    <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="gvim" width="40" height="40"/> </a>
+    <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"> <img src="https://www.espressif.com/sites/default/files/logo_esp-01.svg" alt="espressif" width="40" height="40"/> </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majidali25&show_icons=true&locale=en" alt="majidali25" /></p>
