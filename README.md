@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Majid Ali</h1>
 <h3 align="center">Electrical Engineering Graduate from Pakistan</h3>
+<img align="right" alt="myimg" width "400" scr= "https://www.kdpof.com/wp-content/uploads/2021/01/kdpof-careers-engineer-1000x653-1.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majidali25&label=Profile%20views&color=0e75b6&style=flat" alt="majidali25" /> </p>
 
