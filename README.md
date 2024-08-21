@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@semiedge1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@semiedge1" height="30" width="40" /></a>
 <a href="https://www.indeed.com" target="blank"><img align="center" src="https://asset.brandfetch.io/idFE_fwV-w/idzCYrDc0S.svg?updated=1671038550746" alt="Indeed" height="30" width="40" /></a>
 <a href="https://www.fiverr.com" target="https://www.fiverr.com/mrj728?up_rollout=true"><img align="center" src="https://seeklogo.com/images/F/fiverr-logo-F788D846EE-seeklogo.com.png" alt="Fiverr" height="30" width="40" /></a>
-<a href="https://www.upwork.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/257/806/png-clipart-upwork-freelancer-android-android-text-trademark-thumbnail.png" alt="Upwork" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01b7fc331083b08549" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/257/806/png-clipart-upwork-freelancer-android-android-text-trademark-thumbnail.png" alt="Upwork" height="30" width="40" /></a>
 </p>
 
 
