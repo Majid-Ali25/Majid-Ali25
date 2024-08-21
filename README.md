@@ -6,7 +6,7 @@
 
 - **I'm eager to begin my career in digital IC design, I have a strong grasp of HDL languages such as Verilog and SystemVerilog, as well as expertise in computer architecture, digital system design, and AXI protocols. Through my academic projects, I've developed skills in RTL design, FPGA prototyping, and verification methods like simulation and timing analysis. I am proficient with industry-standard EDA tools like Quartus, Vivado, and Questasim, gaining practical experience in designing and testing digital circuits. I am enthusiastic about applying my knowledge to excel as a digital design and verification engineer, using my analytical abilities to contribute effectively in semiconductor technology.**
 <img align="right" alt="myimg" width="360" src="https://github.com/Majid-Ali25/Majid-Ali25/blob/main/VLSI-Design-Flow.jpg?raw=true">
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@semiedge1]
+- 
 
 - 📫 How to reach me **majidali4894@gmail.com**
 
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/majidali4894/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/majidali4894" height="30" width="40" /></a>
 <a href="https://instagram.com/@majid_ali_4894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@majid_ali_4894" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@innovaari25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@innovaari25" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@semiedge1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@innovaari25" height="30" width="40" /></a>
 <a href="https://www.indeed.com" target="blank"><img align="center" src="https://asset.brandfetch.io/idFE_fwV-w/idzCYrDc0S.svg?updated=1671038550746" alt="Indeed" height="30" width="40" /></a>
 <a href="https://www.fiverr.com" target="https://www.fiverr.com/mrj728?up_rollout=true"><img align="center" src="https://seeklogo.com/images/F/fiverr-logo-F788D846EE-seeklogo.com.png" alt="Fiverr" height="30" width="40" /></a>
 <a href="https://www.upwork.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/257/806/png-clipart-upwork-freelancer-android-android-text-trademark-thumbnail.png" alt="Upwork" height="30" width="40" /></a>
