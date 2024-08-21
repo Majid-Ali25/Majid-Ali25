@@ -8,13 +8,13 @@
 <img align="right" alt="myimg" width="360" src="https://github.com/Majid-Ali25/Majid-Ali25/blob/main/VLSI-Design-Flow.jpg?raw=true">
 - 
 
-- 📫 How to reach me **majidali4894@gmail.com**
+- 📫 Reach me at: **majidali4894@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/majidali4894/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/majidali4894" height="30" width="40" /></a>
 <a href="https://instagram.com/@majid_ali_4894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@majid_ali_4894" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@semiedge1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@innovaari25" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@semiedge1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@semiedge1" height="30" width="40" /></a>
 <a href="https://www.indeed.com" target="blank"><img align="center" src="https://asset.brandfetch.io/idFE_fwV-w/idzCYrDc0S.svg?updated=1671038550746" alt="Indeed" height="30" width="40" /></a>
 <a href="https://www.fiverr.com" target="https://www.fiverr.com/mrj728?up_rollout=true"><img align="center" src="https://seeklogo.com/images/F/fiverr-logo-F788D846EE-seeklogo.com.png" alt="Fiverr" height="30" width="40" /></a>
 <a href="https://www.upwork.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/257/806/png-clipart-upwork-freelancer-android-android-text-trademark-thumbnail.png" alt="Upwork" height="30" width="40" /></a>
@@ -23,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="verilog" width="40" height="40"/> </a> 
-    <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" alt="systemverilog" width="40" height="40"/> </a>
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F20828%2Fverilog&psig=AOvVaw1xE1hdv7TrMbPXLo94uLFD&ust=1724316910987000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC5sJvbhYgDFQAAAAAdAAAAABAE" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" alt="verilog" width="40" height="40"/> </a> 
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F102126%2Ffile-type-light-systemverilog&psig=AOvVaw0g9PDu4TnpY2qOgMBFOKPr&ust=1724317013902000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjqvsvbhYgDFQAAAAAdAAAAABAK" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-512x512-n6etzhly.png" alt="systemverilog" width="40" height="40"/> </a>
     <a href="https://www.accellera.org/downloads/standards/uvm" target="_blank" rel="noreferrer"> <img src="https://uvm.io/images/uvm-logo.svg" alt="uvm" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
